@@ -89,7 +89,7 @@ syntax keyword javaScriptType           const undefined var void yield
 syntax keyword javaScriptOperator       delete new in instanceof let typeof
 syntax keyword javaScriptBoolean        true false
 syntax keyword javaScriptNull           null
-syntax keyword javaScriptThis           this
+syntax keyword javaScriptThis           _this
 
 "" Statement Keywords
 syntax keyword javaScriptConditional    if else
